@@ -1,6 +1,6 @@
 {
 
-    "Version": "1.0.10",
+    "Version": "1.0.11",
     "ReleaseNotes": "
 🚨🚨𝐏𝐎𝐒𝐒𝐈́𝐕𝐄𝐈𝐒 𝐒𝐎𝐋𝐔𝐂̧𝐎̃𝐄𝐒 𝐏𝐀𝐑𝐀 𝐆𝐄𝐑𝐀𝐑 𝐃𝐀𝐃𝐎𝐒 𝐍𝐀 𝐕𝐈𝐕𝐎🚨🚨
 
@@ -94,7 +94,7 @@
       {
             "Name": "📌𝗩𝗜𝗩𝗢 𝗗𝗧𝗣𝗥𝗢𝗫𝗬 1",
             "FLAG": "vivo",
-            "Payload": "[split][crlf]ACL / HTTP/1.1[crlf][crlf]",
+            "Payload": "[delay_split]BCOPY / [crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "209.14.70.120",
