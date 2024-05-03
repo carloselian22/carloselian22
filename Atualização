@@ -1,6 +1,6 @@
 {
 
-    "Version": "1.0.11",
+    "Version": "1.0.12",
     "ReleaseNotes": "
 🚨🚨𝐏𝐎𝐒𝐒𝐈́𝐕𝐄𝐈𝐒 𝐒𝐎𝐋𝐔𝐂̧𝐎̃𝐄𝐒 𝐏𝐀𝐑𝐀 𝐆𝐄𝐑𝐀𝐑 𝐃𝐀𝐃𝐎𝐒 𝐍𝐀 𝐕𝐈𝐕𝐎🚨🚨
 
@@ -92,14 +92,14 @@
           "Info": "Proxy"          
       },
       {
-            "Name": "📌𝗩𝗜𝗩𝗢 𝗗𝗧𝗣𝗥𝗢𝗫𝗬 1",
+            "Name": "📌𝗩𝗜𝗩𝗢 1",
             "FLAG": "vivo",
-            "Payload": "[delay_split]BCOPY / [crlf][crlf]",
+            "Payload": "[delay_split][lf]ACL / HTTP/1.1 Websocket [lf]Host: [rotate= portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com:80;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud][crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "209.14.70.120",
-            "ProxyPort": "8080",
-            "Info": "Proxy"              
+            "ProxyPort": "80",
+            "Info": "Direct"              
       },
       {
           "Name": "📌𝗩𝗜𝗩𝗢 𝗗𝗧𝗣𝗥𝗢𝗫𝗬 2",
