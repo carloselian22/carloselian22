@@ -1,6 +1,6 @@
 {
 
-    "Version": "1.0.15",
+    "Version": "1.0.17",
     "ReleaseNotes": "
 🚨🚨𝐏𝐎𝐒𝐒𝐈́𝐕𝐄𝐈𝐒 𝐒𝐎𝐋𝐔𝐂̧𝐎̃𝐄𝐒 𝐏𝐀𝐑𝐀 𝐆𝐄𝐑𝐀𝐑 𝐃𝐀𝐃𝐎𝐒 𝐍𝐀 𝐕𝐈𝐕𝐎🚨🚨
 
@@ -16,7 +16,8 @@
     "EmailFeedback": "",
     "UrlContato": "",
     "UrlTermos": "",
-    "Udp": [],
+    "CheckUser": "true",
+"UdpPort": "7300;7400;7500;7200",
     "Servers": [
   {
       "Name": "premium1",
