@@ -1,6 +1,6 @@
 {
 
-    "Version": "1.0.14",
+    "Version": "1.0.15",
     "ReleaseNotes": "
 🚨🚨𝐏𝐎𝐒𝐒𝐈́𝐕𝐄𝐈𝐒 𝐒𝐎𝐋𝐔𝐂̧𝐎̃𝐄𝐒 𝐏𝐀𝐑𝐀 𝐆𝐄𝐑𝐀𝐑 𝐃𝐀𝐃𝐎𝐒 𝐍𝐀 𝐕𝐈𝐕𝐎🚨🚨
 
@@ -23,7 +23,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "reglinda.xyz",
-      "CheckUser": "http://280804:5364:7000:1:1:1:70a:acb7:5454/checkUser",
+      "CheckUser": "http://209.14.70.120:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
