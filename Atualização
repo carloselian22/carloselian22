@@ -1,6 +1,6 @@
 {
 
-    "Version": "1.0.19",
+    "Version": "1.0.20",
     "ReleaseNotes": "
 🚨🚨𝐏𝐎𝐒𝐒𝐈́𝐕𝐄𝐈𝐒 𝐒𝐎𝐋𝐔𝐂̧𝐎̃𝐄𝐒 𝐏𝐀𝐑𝐀 𝐆𝐄𝐑𝐀𝐑 𝐃𝐀𝐃𝐎𝐒 𝐍𝐀 𝐕𝐈𝐕𝐎🚨🚨
 
@@ -159,7 +159,7 @@
           "SNI": "",
           "TlsIP": "",
           "ProxyIP": "[app_host]",
-          "ProxyPort": "8080",
+          "ProxyPort": "8989",
           "Info": "Proxy"
       },
       {
@@ -169,7 +169,7 @@
           "SNI": "",
           "TlsIP": "",
           "ProxyIP": "[app_host]",
-          "ProxyPort": "8080",
+          "ProxyPort": "8989",
           "Info": "Proxy"
         },
         {
