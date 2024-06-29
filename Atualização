@@ -1,6 +1,6 @@
 {
 
-    "Version": "1.0.20",
+    "Version": "1.0.21",
     "ReleaseNotes": "
 🚨🚨𝐏𝐎𝐒𝐒𝐈́𝐕𝐄𝐈𝐒 𝐒𝐎𝐋𝐔𝐂̧𝐎̃𝐄𝐒 𝐏𝐀𝐑𝐀 𝐆𝐄𝐑𝐀𝐑 𝐃𝐀𝐃𝐎𝐒 𝐍𝐀 𝐕𝐈𝐕𝐎🚨🚨
 
@@ -23,7 +23,7 @@
       "Name": "premium1",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "vps53485.publiccloud.com.br",
+      "ServerIP": "reglinda2.xyz",
       "CheckUser": "http://191.252.111.9:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
